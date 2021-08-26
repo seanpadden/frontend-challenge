@@ -1,0 +1,24 @@
+
+.dots {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+li {
+  float: left;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+li a {
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 100%;
+  outline: none;
+  border-radius: 50%;
+  text-indent: -999em;
+}

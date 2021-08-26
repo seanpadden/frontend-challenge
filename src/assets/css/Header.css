@@ -1,0 +1,12 @@
+.header {
+  position: sticky;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px 0 50px 0;
+}
+
+.header-logo {
+  height: 50px;
+
+}
